@@ -2,7 +2,7 @@
 
 My name is __Iago Viotti__, I'm Social Science Bachelor but currently a full-stack developer student. You know what they say "Knowledge is never too much".
 My programing carrer started a little later in life but my curiosity and passion about technology has always been there.</br>
-I'm also very into tecnology, music and arts in general.
+I'm also very into technology, music and arts in general.
 <div>
 <a href="https://github.com/iagoViotti"><img src="https://github-readme-stats.vercel.app/api?username=iagoViotti&show_icons=true&theme=transparent&hide=stars" />
 

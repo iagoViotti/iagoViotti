@@ -4,9 +4,9 @@ My name is __Iago Viotti__, I'm Social Science Bachelor but currently a full-sta
 My programing carrer started a little later in life but my curiosity and passion about technology has always been there.</br>
 I'm also very into technology, music and arts in general.
 <div>
-<a href="https://github.com/iagoViotti"><img src="https://github-readme-stats.vercel.app/api?username=iagoViotti&show_icons=true&theme=transparent&hide=stars" />
+<a href="https://github.com/iagoViotti"><img src="https://github-readme-stats.vercel.app/api?username=iagoViotti&show_icons=true&theme=transparent&hide=stars&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoViotti&layout=compact&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoViotti&layout=compact&theme=transparent&count_private=true" />
 </div>
 
 ### My Stacks

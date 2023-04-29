@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-My name is __Iago Viotti__, I'm Social Science Bachelor but currently a full-stack developer student. You know what they say "Knowledge is never too much".
+My name is __Iago Viotti__, I'm Social Science Bachelor but currently working as a Full-Stack Developer. <br />
 My programing carrer started a little later in life but my curiosity and passion about technology has always been there.</br>
 I'm also very into technology, music and arts in general.
 <div>
